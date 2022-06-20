@@ -24,7 +24,12 @@ export const Checkout = () => {
 
                 <div className='col-md-6'>
                   <label for="Last name" className='form-label float-start'>Last name</label>
-                  <input type="text" className='form-control'></input>
+                  <input
+                   type="text" 
+                   className='form-control'
+                   >
+
+                   </input>
                 </div>
 
                 <div className='col-md-12'>
